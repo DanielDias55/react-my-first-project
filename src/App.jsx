@@ -20,7 +20,7 @@ function App() {
 
   return (
     <main className="app">
-      <h1>_REACT_</h1>
+      <h1>Users</h1>
 
       <section className="grid">
         {users.map((user) => (
